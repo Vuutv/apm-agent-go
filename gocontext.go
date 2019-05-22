@@ -20,7 +20,7 @@ package apm
 import (
 	"context"
 
-	"github.com/Vuutv/apm-agent-go/apm/internal/apmcontext"
+	"github.com/Vuutv/apm-agent-go/internal/apmcontext"
 )
 
 // ContextWithSpan returns a copy of parent in which the given span

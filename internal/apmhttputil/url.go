@@ -22,7 +22,7 @@ import (
 	"net/http"
 	"strings"
 
-	"go.elastic.co/apm/internal/apmstrings"
+	"github.com/Vuutv/apm-agent-go/internal/apmstrings"
 	"go.elastic.co/apm/model"
 )
 
