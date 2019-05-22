@@ -24,7 +24,7 @@ import (
 	"sync"
 
 	"github.com/Vuutv/apm-agent-go/internal/wildcard"
-	"go.elastic.co/apm/model"
+	"github.com/Vuutv/apm-agent-go/model"
 )
 
 // Metrics holds a set of metrics.

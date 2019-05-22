@@ -19,8 +19,8 @@ package apm
 
 import (
 	"github.com/Vuutv/apm-agent-go/internal/ringbuffer"
-	"go.elastic.co/apm/model"
-	"go.elastic.co/apm/stacktrace"
+	"github.com/Vuutv/apm-agent-go/model"
+	"github.com/Vuutv/apm-agent-go/stacktrace"
 	"go.elastic.co/fastjson"
 )
 

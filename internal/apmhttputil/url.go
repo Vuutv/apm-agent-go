@@ -23,7 +23,7 @@ import (
 	"strings"
 
 	"github.com/Vuutv/apm-agent-go/internal/apmstrings"
-	"go.elastic.co/apm/model"
+	"github.com/Vuutv/apm-agent-go/model"
 )
 
 // RequestURL returns a model.URL for req.
