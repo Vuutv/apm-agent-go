@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"go.elastic.co/apm/stacktrace"
+	"github.com/Vuutv/apm-agent-go/stacktrace"
 )
 
 // droppedSpanDataPool holds *SpanData which are used when the span

@@ -29,7 +29,7 @@ import (
 	"github.com/pkg/errors"
 
 	"github.com/Vuutv/apm-agent-go/internal/pkgerrorsutil"
-	"go.elastic.co/apm/stacktrace"
+	"github.com/Vuutv/apm-agent-go/stacktrace"
 )
 
 // Recovered creates an Error with t.NewError(err), where
