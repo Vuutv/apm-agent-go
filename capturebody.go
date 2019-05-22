@@ -24,7 +24,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"go.elastic.co/apm/model"
+	"github.com/Vuutv/apm-agent-go/model"
 )
 
 // CaptureBodyMode holds a value indicating how a tracer should capture

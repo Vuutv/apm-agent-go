@@ -33,9 +33,9 @@ import (
 	"github.com/Vuutv/apm-agent-go/internal/iochan"
 	"github.com/Vuutv/apm-agent-go/internal/ringbuffer"
 	"github.com/Vuutv/apm-agent-go/internal/wildcard"
-	"go.elastic.co/apm/model"
-	"go.elastic.co/apm/stacktrace"
-	"go.elastic.co/apm/transport"
+	"github.com/Vuutv/apm-agent-go/model"
+	"github.com/Vuutv/apm-agent-go/stacktrace"
+	"github.com/Vuutv/apm-agent-go/transport"
 	"go.elastic.co/fastjson"
 )
 

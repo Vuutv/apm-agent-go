@@ -24,8 +24,8 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
 
-	"go.elastic.co/apm"
-	"go.elastic.co/apm/transport/transporttest"
+	"github.com/Vuutv/apm-agent-go"
+	"github.com/Vuutv/apm-agent-go/transport/transporttest"
 )
 
 // HTTPTestSuite is a test suite for HTTP instrumentation modules.
