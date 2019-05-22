@@ -1,4 +1,4 @@
-module go.elastic.co/apm/module/apmhttp
+module github.com/Vuutv/apm-agent-go/module/apmhttp
 
 require (
 	github.com/pkg/errors v0.8.0
