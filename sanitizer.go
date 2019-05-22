@@ -18,7 +18,7 @@
 package apm
 
 import (
-	"go.elastic.co/apm/internal/wildcard"
+	"github.com/Vuutv/apm-agent-go/internal/wildcard"
 	"go.elastic.co/apm/model"
 )
 
