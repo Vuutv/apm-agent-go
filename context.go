@@ -22,7 +22,7 @@ import (
 	"net/http"
 
 	"github.com/Vuutv/apm-agent-go/internal/apmhttputil"
-	"go.elastic.co/apm/model"
+	"github.com/Vuutv/apm-agent-go/model"
 )
 
 // Context provides methods for setting transaction and error context.

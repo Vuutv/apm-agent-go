@@ -30,7 +30,7 @@ import (
 
 	"github.com/Vuutv/apm-agent-go/internal/apmhostutil"
 	"github.com/Vuutv/apm-agent-go/internal/apmstrings"
-	"go.elastic.co/apm/model"
+	"github.com/Vuutv/apm-agent-go/model"
 )
 
 var (
