@@ -35,7 +35,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"go.elastic.co/apm/internal/apmconfig"
+	"github.com/Vuutv/apm-agent-go/internal/apmconfig"
 )
 
 const (
