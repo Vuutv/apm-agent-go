@@ -24,7 +24,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"go.elastic.co/apm/stacktrace"
+	"github.com/Vuutv/apm-agent-go/stacktrace"
 )
 
 var (
