@@ -27,8 +27,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"go.elastic.co/apm/internal/apmconfig"
-	"go.elastic.co/apm/internal/wildcard"
+	"github.com/Vuutv/apm-agent-go/internal/apmconfig"
+	"github.com/Vuutv/apm-agent-go/internal/wildcard"
 )
 
 const (

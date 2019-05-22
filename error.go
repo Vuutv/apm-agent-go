@@ -28,7 +28,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"go.elastic.co/apm/internal/pkgerrorsutil"
+	"github.com/Vuutv/apm-agent-go/internal/pkgerrorsutil"
 	"go.elastic.co/apm/stacktrace"
 )
 

@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"go.elastic.co/apm/internal/apmhttputil"
+	"github.com/Vuutv/apm-agent-go/internal/apmhttputil"
 	"go.elastic.co/apm/model"
 )
 

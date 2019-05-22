@@ -28,8 +28,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"go.elastic.co/apm/internal/apmhostutil"
-	"go.elastic.co/apm/internal/apmstrings"
+	"github.com/Vuutv/apm-agent-go/internal/apmhostutil"
+	"github.com/Vuutv/apm-agent-go/internal/apmstrings"
 	"go.elastic.co/apm/model"
 )
 
