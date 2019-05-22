@@ -22,7 +22,7 @@ import (
 	"net/http"
 	"os"
 
-	"go.elastic.co/apm/model"
+	"github.com/Vuutv/apm-agent-go/model"
 )
 
 // SetContext sets the source context for the given stack frames,
